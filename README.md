@@ -6,4 +6,4 @@
 
 </br>
 
-still wip
+[#MAIN](https://github.com/URAHARA-KI)ㅤㅤ[#STRAWPAGE](https://httpsdawnangelstrawpage.straw.page)
