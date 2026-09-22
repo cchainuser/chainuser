@@ -1,6 +1,6 @@
 <div align="center">
 
-<img align="center" width="200" src="https://img.sanishtech.com/u/02ea5d711c0f9a62adf85f53229baa24.png">
+<img align="center" width="200" src="https://img.sanishtech.com/u/89cdc5137e07f147d563bb3c3c4233f7.png">
 
 </br>
 
