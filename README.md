@@ -15,3 +15,17 @@
 </br>
 
 [#MAIN](https://github.com/URAHARA-KI)ㅤㅤ[#STRAWPAGE](https://httpsdawnangelstrawpage.straw.page)
+
+</br>
+
+</br>
+
+<div align="center">
+
+<img align="right" width="200" src="https://img.sanishtech.com/u/3020cc2619fc567a297285736f6332c8.png">
+
+<div align="center">
+
+<img align="center" width="100" src="https://img.sanishtech.com/u/33d5c3ad5598f27f0afffc8602cf0cb0.png">
+
+<img align="center" width="100" src="https://img.sanishtech.com/u/45d4d90f9b8570fc3c395377039d8183.png">
