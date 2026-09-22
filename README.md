@@ -22,7 +22,7 @@
 
 <div align="center">
 
-<img align="right" width="200" src="https://img.sanishtech.com/u/3020cc2619fc567a297285736f6332c8.png">
+<img align="center" width="200" src="https://img.sanishtech.com/u/3020cc2619fc567a297285736f6332c8.png">
 
 <div align="center">
 
