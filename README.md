@@ -42,6 +42,6 @@
 
 <img align="center" width="100" src="https://img.sanishtech.com/u/dd23a9f53c9c20e4b8f23adbf4b0b8c4.png">
 
-<img align="center" width="100" src="https://img.sanishtech.com/u/d1445c15564695293e8744a9b0290d95.png">
+<img align="center" width="200" src="https://img.sanishtech.com/u/d1445c15564695293e8744a9b0290d95.png">
 
-<img align="center" width="100" src="https://img.sanishtech.com/u/c78d306ec3f0c32b2670be0c8acf5481.png">
+<img align="center" width="200" src="https://img.sanishtech.com/u/c78d306ec3f0c32b2670be0c8acf5481.png">
